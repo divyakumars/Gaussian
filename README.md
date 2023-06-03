@@ -16,7 +16,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 6.Using nested for loop find the ratio and perform the elementary row operations and find the final matrix.
 7.Use back substitution method to find the value of the variables and print it
 8.End the program 
-
 ## Program:
 ```
 Program to find the solution of a matrix using Gaussian Elimination.
