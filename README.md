@@ -18,8 +18,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 8. End the program.
 
 ## Program:
-```
-Program to find the solution of a matrix using Gaussian Elimination.
+```Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: DIVYAK
 RegisterNumber: 212222230035
 import numpy as np
@@ -49,7 +48,6 @@ for i in  range(n):
 ```
 
 ## Output:
-![gaussian elimination]
 ![image](https://github.com/divyakumars/Gaussian/assets/119393621/9422c510-099b-4488-a074-3c4229f779c0)
 
 
